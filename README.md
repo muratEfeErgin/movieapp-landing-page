@@ -1,5 +1,7 @@
 # 🎬 MovieApp - Responsive Landing Page
 
+**[🚀 Click Here to View the Live Demo](https://muratefeergin.github.io/movieapp-landing-page/)**
+
 This project is a single-page landing interface for a fictional movie/TV show platform, developed using modern web design standards.
 
 ## 🚀 About the Project
@@ -18,7 +20,10 @@ The main purpose of this study is to grasp semantic HTML structures, apply the *
 
 ## 📱 Screenshot
 
-_(Tip: You can add a screenshot of your project to the repository as "screenshot.png" and display it here: `![MovieApp Screenshot](screenshot.png)`)_
+<div align="center">
+  <img src="screenshot1.png" alt="Desktop View 1" width="48%">
+  <img src="screenshot2.png" alt="Desktop View 2" width="48%">
+</div>
 
 ## 👨‍💻 Developer
 
@@ -27,6 +32,8 @@ _(Tip: You can add a screenshot of your project to the repository as "screenshot
 ---
 
 # 🎬 MovieApp - Responsive Landing Page
+
+**[🚀 Canlı Demoya Gitmek İçin Tıklayın](https://muratefeergin.github.io/movieapp-landing-page/)**
 
 Bu proje, modern web tasarım standartları kullanılarak geliştirilmiş, kurgusal bir film/dizi platformu için hazırlanan tek sayfalık bir tanıtım (landing page) arayüzüdür.
 
@@ -45,8 +52,11 @@ Bu çalışmanın temel amacı; semantik HTML yapısını kavramak, **BEM (Block
 
 ## 📱 Ekran Görüntüsü
 
-_(İpucu: Buraya projenin bitmiş halinin ekran görüntüsünü "screenshot.png" adıyla projeye ekleyip koyabilirsin: `![MovieApp Ekran Görüntüsü](screenshot.png)`)_
+<div align="center">
+  <img src="screenshot1.png" alt="Desktop View 1" width="48%">
+  <img src="screenshot2.png" alt="Desktop View 2" width="48%">
+</div>
 
 ## 👨‍💻 Geliştirici
 
-**Murat Efe Ergin** Doğuş Üniversitesi - Bilgisayar Mühendisliği ('27)
+**Murat Efe Ergin** - Bilgisayar Mühendisliği Öğrencisi
