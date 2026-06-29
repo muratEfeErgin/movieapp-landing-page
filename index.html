@@ -15,23 +15,28 @@
   </head>
   <body>
     <nav class="navbar">
-      <h2 class="navbar__logo">MovieApp</h2>
-      <ul class="navbar__list">
-        <li class="navbar__item">
-          <a href="#" class="navbar__link">Filmler</a>
-        </li>
-        <li class="navbar__item">
-          <a href="#" class="navbar__link">Diziler</a>
-        </li>
-        <li class="navbar__item navbar__item--login">
-          <a href="#" class="navbar__link">Login</a>
-        </li>
-      </ul>
+      <div class="container">
+        <h2 class="navbar__logo">MovieApp</h2>
+        <ul class="navbar__list">
+          <li class="navbar__item">
+            <a href="#" class="navbar__link">Filmler</a>
+          </li>
+          <li class="navbar__item">
+            <a href="#" class="navbar__link">Diziler</a>
+          </li>
+          <li class="navbar__item navbar__item--login">
+            <a href="#" class="navbar__link">Login</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
     <main class="main-content">
       <section class="hero">
-        <h1 class="hero__title">Welcome to MovieApp</h1>
+        <h2 class="hero__title">
+          Welcome <br />Millions of movies, TV shows and people to discover.
+          Explore now.
+        </h2>
       </section>
 
       <section class="how-it-works">
@@ -79,7 +84,7 @@
 
       <section class="showcase">
         <img
-          src="features.jpeg"
+          src="img/features.jpeg"
           alt="Movie App Features"
           class="showcase__image"
         />
@@ -143,6 +148,62 @@
               <li>First Month Free</li>
             </ul>
             <a href="#" class="btn btn--outline">Choose Plan</a>
+          </div>
+        </div>
+      </section>
+      <section class="information">
+        <div class="rows">
+          <span class="rows__item">
+            <h2>974</h2>
+            <h4>Movies</h4>
+          </span>
+          <span class="rows__item">
+            <h2>456</h2>
+            <h4>Tv Shows</h4>
+          </span>
+          <span class="rows__item">
+            <h2>976</h2>
+            <h4>Users</h4>
+          </span>
+        </div>
+      </section>
+      <section class="movies">
+        <h1 class="movie-card__title">Latest Movies & Tv Shows</h1>
+        <div class="movie-card">
+          <div class="movie-card__item">
+            <img src="img/poster-1.jpeg" alt="starwars" />
+            <h2>Star wars</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio,
+              quia voluptatibus sed magni, doloribus quisquam veniam rerum!
+            </p>
+            <a href=""
+              ><button class="movie-card__button btn">Details</button></a
+            >
+          </div>
+
+          <div class="movie-card__item">
+            <img src="img/poster-2.jpeg" alt="star wars" />
+            <h2>Star wars</h2>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum,
+              quibusdam.
+            </p>
+            <a href=""
+              ><button class="movie-card__button btn">Details</button></a
+            >
+          </div>
+
+          <div class="movie-card__item">
+            <img src="img/poster-3.jpeg" alt="star wars" />
+            <h2>Star Wars</h2>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime
+              praesentium veniam consectetur illo aperiam voluptate.
+            </p>
+            <a href=""
+              ><button class="movie-card__button btn">Details</button></a
+            >
           </div>
         </div>
       </section>

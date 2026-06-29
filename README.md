@@ -23,6 +23,9 @@ The main purpose of this study is to grasp semantic HTML structures, apply the *
 <div align="center">
   <img src="screenshot1.png" alt="Desktop View 1" width="48%">
   <img src="screenshot2.png" alt="Desktop View 2" width="48%">
+  <img src="screenshot3.png" alt="Desktop View 2" width="48%">
+  <img src="screenshot4.png" alt="Desktop View 2" width="48%">
+
 </div>
 
 ## 👨‍💻 Developer
