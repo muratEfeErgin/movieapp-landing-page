@@ -270,17 +270,6 @@ a {
   opacity: 1;
 }
 
-.footer {
-  background-color: #233d4d;
-  padding: 15px 20px;
-  display: flex;
-  justify-content: flex-end;
-}
-
-.footer__copy {
-  color: #fff;
-  font-size: 0.9rem;
-}
 .information {
   background-color: #f37135;
   text-align: center;
@@ -333,6 +322,33 @@ a {
   background-color: #233d4d;
   color: #fff;
   border: solid 2px #fff;
+}
+.footer {
+  background-color: #233d4d;
+  padding: 15px 20px;
+  height: 17vh;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__copy {
+  color: #fff;
+  font-size: 0.9rem;
+  padding-top: 20px;
+}
+.footer__list ul {
+  display: flex;
+  color: #fff;
+  gap: 10px;
+  align-items: center;
+  font-size: large;
+}
+.footer__list a {
+  color: #fff;
+}
+.footer__logo ul {
+  display: flex;
+  gap: 10px;
 }
 @media (max-width: 768px) {
   .pricing__cards-container {
